@@ -24,8 +24,8 @@ body {
 
 #container {
   --grid-size: 16;
-  width: 90vmin;
-  height: 90vmin;
+  width: 85vmin;
+  height: 85vmin;
   display: grid;
   grid-template-columns: repeat(var(--grid-size), 1fr);
   grid-template-rows: repeat(var(--grid-size), 1fr);
